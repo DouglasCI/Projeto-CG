@@ -33,4 +33,4 @@
 > ## - ***Animação***
 > A animação consiste na esfera metálica em movimento retilíneo uniforme em direção à esfera de vidro. Assim que as duas esferas se chocam, a de metal move-se na direção oposta desaceleradamente, enquanto a de vidro anda com velocidade constante em direção ao cubo pequeno. Quando ela se choca com o cubo, ele permanece parado, porém a esfera de vidro se afasta na direção oposta com velocidade decrescente. Ademais, a camera se desloca para cima durante toda a cena.
 >
-> A animação possui 9fps e 5 segundos de duração, totalizando 45 frames. Todos os frames estão no diretório *images* e o vídeo resultante se chama *ProjetoCG.mp4*.
+> A animação possui 9fps e 5 segundos de duração, totalizando 45 frames, e está em resolução 480x270. Todos os frames estão no diretório *images* e o vídeo resultante se chama *ProjetoCG.mp4*.
