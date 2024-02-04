@@ -1,0 +1,7 @@
+<map id="hittable" name="hittable">
+<area shape="rect" id="node1" title="Base class for hittable objects." alt="" coords="152,5,224,32"/>
+<area shape="rect" id="node2" href="$classhittable__list.html" title="Class for a list of hittable objects, can represent a world." alt="" coords="5,80,104,107"/>
+<area shape="rect" id="node3" href="$classobj.html" title="Class for obj files." alt="" coords="128,80,171,107"/>
+<area shape="rect" id="node4" href="$classsphere.html" title="Hittable derived class for a hittable sphere." alt="" coords="195,80,261,107"/>
+<area shape="rect" id="node5" href="$classtriangle.html" title="Hittable derived class for a hittable triangle." alt="" coords="285,80,357,107"/>
+</map>
