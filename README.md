@@ -31,6 +31,6 @@
 > Por fim, em cima do chão, existem duas esferas: uma metálica e outra feita de material dielétrico. Ambas são do mesmo tamanho e estão alinhadas junto com o cubo menor.
 
 > ## - ***Animação***
-> A animação consiste na esfera metálica em movimento retilíneo uniforme em direção à esfera de vidro. Assim que as duas esferas se chocam, a de metal move-se na direção oposta desaceleradamente, enquanto a de vidro anda com velocidade constante em direção ao cubo pequeno. Quando ela se choca com o cubo, ele permanece parado, porém a esfera de vidro se afasta na direção oposta com velocidade decrescente. 
+> A animação consiste na esfera metálica em movimento retilíneo uniforme em direção à esfera de vidro. Assim que as duas esferas se chocam, a de metal move-se na direção oposta desaceleradamente, enquanto a de vidro anda com velocidade constante em direção ao cubo pequeno. Quando ela se choca com o cubo, ele permanece parado, porém a esfera de vidro se afasta na direção oposta com velocidade decrescente. Ademais, a camera se desloca para cima durante toda a cena.
 >
 > A animação possui 9fps e 5 segundos de duração, totalizando 45 frames. Todos os frames estão no diretório *images* e o vídeo resultante se chama *ProjetoCG.mp4*.
