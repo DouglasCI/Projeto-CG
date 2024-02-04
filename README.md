@@ -23,10 +23,10 @@
 > 
 > No arquivo *main.cpp* no diretório *src*, temos a parte da instanciação dos objetos no mundo e da animação desses objetos. O único método utilizado para a animação foi o *move*. 
 > 
-> Além disso, foram utilizadas equações da Cinemática para simular um movimento mais realísticos dos objetos.
+> Além disso, foram utilizadas equações da Cinemática para simular um movimento mais realístico dos objetos.
 
 > ## - ***Objetos***
-> A cena em questão é composta por um cubo grande com material difuso advindo do arquivo *big_cube.obj* que será nosso chão. E, também, há um cubo menor metálico gerado a partir do arquivo *small_cube.obj* que está em cima do cubo maior. Ambos esses arquivos estão no diretório *input*.
+> A cena em questão é composta por um cubo grande com material difuso advindo do arquivo *big_cube.obj* que será nosso chão. E, também, há um cubo menor metálico gerado a partir do arquivo *small_cube.obj* que fica em cima do cubo maior. Ambos esses arquivos estão no diretório *input*.
 >
 > Por fim, em cima do chão, existem duas esferas: uma metálica e outra feita de material dielétrico. Ambas são do mesmo tamanho e estão alinhadas junto com o cubo menor.
 
